@@ -1,6 +1,6 @@
 # Feeback Cache
 ## Purpose
-A problem that I, along with other high school English teachers is keeping track of feedback we have given as well as creating a cache of feedback that we constantly and consistently give to students on their writing.
+A problem that I, along with other high school English teachers face is keeping track of feedback we have given as well as creating a cache of feedback that we constantly and consistently give to students on their writing.
 
 My program will serve as a system to store common feedback we give out often (e.g., Grammar/Mechanics, Structure, Integration of sources, etc.), keep track of which feedback was given to which student, as well as catergorize feedback to ease with assigning feedback.
 
